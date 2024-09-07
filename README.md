@@ -44,5 +44,4 @@ Este projeto está licenciado sob a licença MIT.
 * **Personalização:** Você pode personalizar a aparência da sua aplicação editando o arquivo `style.css`.
 * **Melhorias:** Existem diversas possibilidades para melhorar este projeto, como adicionar mais funcionalidades de pesquisa, integrar com APIs externas, ou melhorar a interface do usuário.
 
-Com este README.md, você terá uma documentação clara e concisa do seu projeto, facilitando a compreensão e colaboração de outros desenvolvedores.
-```
+site: https://imersao-dev-gemini-xi.vercel.app/
